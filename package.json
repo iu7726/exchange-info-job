@@ -10,15 +10,15 @@
         "test": "node ./dist/test.js"
     },
     "dependencies": {
-        "amqmodule": "git+https://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@github.com/NFT-Terminal/libs-amq-module",
+        "amqmodule": "git+https://github.com/NFT-Terminal/libs-amq-module",
         "aws-sdk": "^2.1446.0",
         "axios": "^1.2.1",
         "bignumber.js": "^9.0.2",
         "crypto": "^1.0.1",
         "crypto-js": "^4.1.1",
         "dotenv": "^11.0.0",
-        "libs-connection-pool": "git+https://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@github.com/OG-XYZ/libs-connection-pool",
-        "libs-job-manager": "git+https://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@github.com/OG-XYZ/libs-job-manager",
+        "libs-connection-pool": "git+https://github.com/OG-XYZ/libs-connection-pool",
+        "libs-job-manager": "git+https://github.com/OG-XYZ/libs-job-manager",
         "moment": "^2.29.3",
         "node-cron": "^3.0.2",
         "redis": "^4.6.7",
